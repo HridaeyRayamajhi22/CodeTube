@@ -34,7 +34,7 @@ const Navbar = () => {
             fontSize: "28px",
           }}
         >
-          HRD
+          CodeTube
         </Typography>
       </Link>
 
