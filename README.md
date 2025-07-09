@@ -14,3 +14,6 @@ CodeTube is a modern YouTube clone built using **React JS**, **Tailwind CSS**, *
 - Video search and playback
 - Channel and category browsing
 - Responsive UI design
+
+
+🧠 Built as part of my learning journey by following JavaScript Mastery’s Youtube Clone tutorial.
